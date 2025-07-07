@@ -1,0 +1,13 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Telethon session files
+*.session
+*.session-journal
+
+# Ignore config files
+config.env
+
+# Ignore data files
+usn_data.json
